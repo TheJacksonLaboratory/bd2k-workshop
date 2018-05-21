@@ -25,8 +25,8 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-   home: ""
-  # Galaxy: "http://bd2k2017.jax.org/"
+   Home: ""
+   Galaxy: "http://184.73.65.163/"
   
 #    - Getting Started: "getstarted"
 #    - User Instances: "user-instances"
