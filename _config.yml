@@ -25,9 +25,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-
-   Home: ""
-   Galaxy: "http://184.73.65.163/"
+  - Home: ""
   
 #    - Getting Started: "getstarted"
 #    - User Instances: "user-instances"
