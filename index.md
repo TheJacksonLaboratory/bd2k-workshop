@@ -6,13 +6,9 @@ subtitle: JAX Genomic Medicine, Farmington CT
 
 ### User Instances
 
-- username: bd2kuser
-- password: BD2K2017
+ - **username**: bd2kuser
+ - **password**: BD2K2017
 
-- To ssh: 
-```
-ssh bd2kuser@[hostname from below]
-```
 
 | usernames           | hostname       | jupyter                               | rstudio                               | webserver                          | terminal                                |
 |---------------------|----------------|---------------------------------------|---------------------------------------|------------------------------------|-----------------------------------------|
