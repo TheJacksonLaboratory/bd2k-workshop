@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Big Genomic Data Skills Training for UG Professors
-subtitle: Bar Harbor, ME
+title:  Big Genomic Data Skills Training For Professors
+subtitle: JAX Genomic Medicine, Farmington CT
 ---
 
 ### User Instances
